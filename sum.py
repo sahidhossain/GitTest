@@ -13,7 +13,7 @@ class Calculator:
         return divide
 
 obj = Calculator()
-value1 = int(input("Enter First Number: "))
+value1 = int(input("Enter First Number : "))
 value2 = int(input("Enter Second Number: "))
 
 
